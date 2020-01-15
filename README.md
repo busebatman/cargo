@@ -1,1 +1,1 @@
-# cargo
+I made this project to simulate a simple cargo system for a firm. Program first asks the user for the forbidden items then customer number. And then customer enters the products and their prices. After all these operations, program calculates the cargo price of that customer.
